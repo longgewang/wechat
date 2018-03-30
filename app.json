@@ -14,19 +14,24 @@
     "backgroundColor": "#ee4ab1"
   },
   "tabBar": {
+    "position":"bottom",
+    "backgroundColor": "#cc4ab1",
+    "borderStyle": "black",
+    "color": "white",
+    "selectedColor": "black",
     "list": 
     [
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "",
-        "selectedIconPath": "selectedIconPath"
+        "iconPath": "icons/index.png",
+        "selectedIconPath": "icons/index_active.png"
       },
       {
         "pagePath": "pages/my/my",
         "text": "我的",
-        "iconPath": "",
-        "selectedIconPath": "selectedIconPath"
+        "iconPath": "icons/my.png",
+        "selectedIconPath": "icons/my_active.png"
       }
     ]
   }
