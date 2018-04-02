@@ -1,7 +1,9 @@
 @import "css/reset.wxss";
+@import "css/hero.wxss";
+@import "css/button.wxss";
 page
 {
-  background:#F2DEED;
+  background:#f2DEED;
 }
 .section
 {

@@ -1,0 +1,19 @@
+button
+{
+  display:inline-block;
+  margin:4px;
+  background: #cc4ab1;
+  padding:0 24px;
+  color:white;
+  border-radius: 2px;
+  font-size: 32rpx;
+}
+.button::after
+{
+  content: none;
+
+}
+.button.primary
+{
+  color:black;
+}
