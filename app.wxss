@@ -1,0 +1,9 @@
+@import "css/reset.wxss";
+page
+{
+  background:#F2DEED;
+}
+.section
+{
+  height:100vh;
+}
